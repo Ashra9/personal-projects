@@ -1,7 +1,7 @@
 # NBA injuries Analysis (2010-2022)
 Project analytics injury trends from 2010-2022 using Tableau
 
-
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/94216627/235444170-1c32ad9f-510f-463c-a645-31c5a5fc761e.png">
 
 
 ## Summary of Insights
