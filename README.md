@@ -1,5 +1,5 @@
 # NBA injuries Analysis (2010-2022)
-Project analytics injury trends from 2010-2022 using Tableau
+Portfolio Project analytics injury trends from 2010-2022 using Tableau
 
 <img width="750" alt="image" src="https://user-images.githubusercontent.com/94216627/235444170-1c32ad9f-510f-463c-a645-31c5a5fc761e.png">
 
@@ -17,5 +17,6 @@ Project analytics injury trends from 2010-2022 using Tableau
 - This is further supported by the injuries vs age graph which is very similar to the distribution of NBA player age  from 2010-2020s
 
 ## Recommendations & Next Steps
-- Investigate why there seems to be a rise in injuries recently even with advanced medical technology with factors such as games played, quality of team medical staff and possibly expand to time spent on training as well as training schedules to further identify the trends
+- Investigate why there seems to be a rise in injuries recently even with advanced medical technology with factors such as games played, quality of team medical staff and possibly expand to time spent on training as well as training schedules to further identify the trends.
+- Monitor the Injury situation to see if the numbers drop or otherwise, to see if changes need to be made to scheduling or medical protocol league wide or within teams 
 
